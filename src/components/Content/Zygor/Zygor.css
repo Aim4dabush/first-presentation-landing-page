@@ -1,0 +1,37 @@
+#zygor-box {
+  border: 1px solid #e3e3e3;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 15px;
+  background-color: #f5f3f0;
+  margin: 30px auto 30px auto;
+  max-width: 850px;
+}
+
+#zygor-box #advertisement a {
+  color: #337ab7;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#zygor-box #advertisement a:hover {
+  color: #23527c;
+  text-decoration: underline;
+}
+
+#zygor-box img {
+  float: right;
+}
+
+#zygor-box #link {
+  color: #337ab7;
+  display: flex;
+  font-size: 1.3em;
+  font-weight: bold;
+  justify-content: center;
+  text-decoration: none;
+}
+
+#zygor-box #link:hover {
+  color: #23527c;
+  text-decoration: underline;
+}

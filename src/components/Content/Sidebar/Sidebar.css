@@ -1,0 +1,59 @@
+#sidebar-content #ads {
+  background-color: white;
+  height: 200px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  width: 300px;
+}
+
+#feedback a {
+  color: #337ab7;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#feedback a:hover {
+  color: #23527c;
+  text-decoration: underline;
+}
+
+#shadowlands-gathering li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 4px;
+}
+
+#shadowlands-gathering li a {
+  color: #337ab7;
+  text-decoration: none;
+  height: 20px;
+}
+
+#shadowlands-gathering li a:hover {
+  color: #23527c;
+  text-decoration: underline;
+}
+
+#shadowlands-gathering ul .herbs {
+  float: left;
+  list-style-type: none;
+}
+
+#sidebar-content {
+  display: grid;
+  grid-template-rows: 20% fit-content fit-content;
+  width: 300px;
+}
+
+#sidebar-content #feedback {
+  border: 1px solid #d5d7d8;
+  margin-bottom: 15px;
+  padding-left: 15px;
+}
+
+#sidebar-content #shadowlands-gathering {
+  border: 1px solid #d5d7d8;
+  font-weight: bold;
+  margin-bottom: 15px;
+  padding-left: 15px;
+}

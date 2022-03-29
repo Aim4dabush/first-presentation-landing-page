@@ -1,0 +1,21 @@
+#updates-content h1 a {
+  color: #337ab7;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#updates-content h1 a:hover {
+  color: #23527c;
+  text-decoration: underline;
+}
+
+#updates-content h3 a {
+  color: #337ab7;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#updates-content h3 a:hover {
+  color: #23527c;
+  text-decoration: underline;
+}

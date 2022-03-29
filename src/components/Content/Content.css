@@ -1,0 +1,37 @@
+#container {
+  background-color: floralwhite;
+  border-color: #ddd;
+  border-style: solid;
+  border-width: 1px;
+  display: grid;
+  grid-template-rows: 15% fit-content;
+  padding-left: 2rem;
+  padding-bottom: 2rem;
+  width: 1300px;
+}
+
+#bottom {
+  display: grid;
+  grid-template-columns: 75% 25%;
+  height: fit-content;
+}
+
+#left-column #pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+#left-column #zygor {
+  margin-top: 70px;
+}
+
+#right-column {
+  display: flex;
+  justify-content: center;
+}
+
+#top {
+  display: flex;
+  justify-content: center;
+}

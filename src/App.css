@@ -1,0 +1,30 @@
+.App {
+  background-color: #d1cdc6;
+  display: grid;
+  grid-template-rows: 5% fit-content 5%;
+  height: fit-content;
+  min-height: 100vh;
+  padding-bottom: 1rem;
+  width: 100%;
+}
+
+#copyright {
+  align-items: end;
+  display: flex;
+  justify-content: end;
+  margin-right: 100px;
+}
+
+#header {
+  align-items: center;
+  background-color: #336237;
+  border-bottom: 1px solid black;
+  display: flex;
+  justify-content: center;
+}
+
+#main-content {
+  display: flex;
+  height: 100%;
+  justify-content: center;
+}
