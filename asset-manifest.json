@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/first-presentation-landing-page/static/css/main.cfb14d22.css",
+    "main.js": "/first-presentation-landing-page/static/js/main.df2cabe9.js",
+    "index.html": "/first-presentation-landing-page/index.html",
+    "main.cfb14d22.css.map": "/first-presentation-landing-page/static/css/main.cfb14d22.css.map",
+    "main.df2cabe9.js.map": "/first-presentation-landing-page/static/js/main.df2cabe9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfb14d22.css",
+    "static/js/main.df2cabe9.js"
+  ]
+}
